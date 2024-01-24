@@ -7,6 +7,18 @@
     display: flexbox;
 }
 
+.hero {
+    position: absolute;
+    top: 0;
+    left: 1;
+}
+
+.navb {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
 h2 {
     color: #e5e7eb;
     font-size: 18px;
@@ -22,10 +34,11 @@ h1 {
 ul {
     list-style: none;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 .sec {
+    position: relative;
     display: flex;
     height: 400px;
     width: 750px;
@@ -38,13 +51,19 @@ img {
     width: 100px;
     border: 4px solid blue;
     border-radius: 10px;
-    justify-content: space-evenly;
+    justify-content: center;
+    align-items: center;
 }
 
 .sec1-img {
+    position: relative;
+    top: 0;
+    left: 1;
     height: 150px;
-    width: 250px;
+    width: 300px;
     background-color: grey;
     border: none;
     border-radius: 0;
 }
+
+
