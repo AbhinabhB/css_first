@@ -16,7 +16,12 @@
 .navb {
     position: absolute;
     top: 0;
-    right: 0;
+    left: 350px;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
 }
 
 h2 {
@@ -57,8 +62,8 @@ img {
 
 .sec1-img {
     position: relative;
-    top: 0;
-    left: 1;
+    top: 60px;
+    left: 20px;
     height: 150px;
     width: 300px;
     background-color: grey;
@@ -66,4 +71,25 @@ img {
     border-radius: 0;
 }
 
+.sec1-fig {
+    position: relative;
+    top: -23px;
+    left: 50px;
+}
+
+.third {
+    background-color: #E5E7EB;
+    height: 200px;
+    position: relative;
+}
+
+.third p {
+    position: absolute;
+}
+
+.author {
+    position: relative;
+    top: 100px;
+    left: 600px
+}
 
