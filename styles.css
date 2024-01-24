@@ -67,6 +67,9 @@ img {
 input {
     background-color: #3882F6;
     color: #e5e7eb;
+    border: none;
+    padding: 4px;
+    border-radius: 3px;
 }
 
 .sec1-img {
