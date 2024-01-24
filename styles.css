@@ -60,6 +60,15 @@ img {
     align-items: center;
 }
 
+.sec1-p {
+    color:#e5e7eb;
+}
+
+input {
+    background-color: #3882F6;
+    color: #e5e7eb;
+}
+
 .sec1-img {
     position: relative;
     top: 60px;
@@ -75,6 +84,7 @@ img {
     position: relative;
     top: -23px;
     left: 50px;
+    color: #e5e7eb;
 }
 
 .third {
