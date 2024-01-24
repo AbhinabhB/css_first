@@ -106,3 +106,37 @@ input {
     left: 600px
 }
 
+.second h2{
+    position: relative;
+    font: 36px extra-bold;
+    color: #1f2937; 
+    top: -60px
+}
+
+.second img {
+    position: relative;
+    top: 100px;
+}
+
+.second figcaption {
+    position: relative;
+    top: 110px;
+}
+
+.fourth {
+    height: 200px
+}
+
+footer {
+    position: relative;
+    background-color: #1f2937;
+    height: 50px;
+    color: #E5E7EB;
+}
+
+.foot {
+    position: relative;
+    top: 15px;
+    left: 300px
+}
+
